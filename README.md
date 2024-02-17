@@ -1,5 +1,9 @@
 ![thumbnail](https://user-images.githubusercontent.com/16558205/180779213-ea740975-3df1-460a-a964-0a623ee25872.png)
 
+# ´npm i --force´
+# ´npm run build´
+# ´npm start´
+
 ### Live - https://react-portfolio-template.netlify.app/
 
 ### Demo Video - https://www.youtube.com/watch?v=62_HLbx2zLQ&t=9s
@@ -18,7 +22,6 @@ Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextj
 - Easy To Customize your details With GUI
 - Blog Crud (Create, Read, Update, Delete blog with easy to use UI).
 - Dark Mode
-
 
 ### Sections
 
